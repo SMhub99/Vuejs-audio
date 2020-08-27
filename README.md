@@ -1,4 +1,4 @@
-# bruga-music
+Music app
 
 > Music app made with Vue, Vuex and Vue Router
 
